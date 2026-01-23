@@ -8,3 +8,4 @@
 🎨 Familiar with React & Tailwind CSS for frontend development.<br />
 🤖 Currently learning all about AI.<br />
 🌱 Always learning, always growing.<br />
+📫 How to reach me? Email: baicaixiaozhan1512@163.com.<br />
