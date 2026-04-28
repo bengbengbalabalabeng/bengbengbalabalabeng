@@ -8,4 +8,5 @@
 🎨 Familiar with React & Tailwind CSS for frontend development.<br />
 🤖 Currently learning all about AI.<br />
 🌱 Always learning, always growing.<br />
-📫 How to reach me? Email: baicaixiaozhan1512@163.com.<br />
+🏢 I'm an Apache committer of [Apache Fesod](https://github.com/apache/fesod).<br />
+📫 How to reach me? Email: [benbala@apache.org](mailto:benbala@apache.org).<br />
